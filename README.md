@@ -5,7 +5,7 @@
   AMIR SALEHI (amirrsalehi)
 </h1>
 
-<h4 align="center">This is Salehi! A junior front end developer, also known as hosseiw!</h4>
+<h4 align="center">This is Salehi! A junior front end developer, also known as Amir!</h4>
 
 ## My expertise
 
